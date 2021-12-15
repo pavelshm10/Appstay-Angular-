@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Home"
+  },
+  {
+    "Menu 1": [
+      {
+        "name": "sub Menu 1"
+      },
+      {
+        "name": "sub Menu 2"
+      },
+      {
+        "name": "sub Menu 3"
+      },
+      {
+        "sub Menu 4": [
+          {
+            "name": "deep menu 1"
+          },
+          {
+            "name": "deep menu 2"
+          }
+        ]
+      },
+      {
+        "name": "sub Menu 5"
+      }
+    ]
+  },
+  {
+    "Menu 2": [
+      {
+        "name": "sub Menu 1"
+      },
+      {
+        "name": "sub Menu 2"
+      },
+      {
+        "name": "sub Menu 3"
+      }
+    ]
+  },
+  {
+    "Menu 3": [
+      {
+        "name": "sub Menu 1"
+      },
+      {
+        "name": "sub Menu 2"
+      },
+      {
+        "Categories": [
+          {
+            "name": "category 1"
+          },
+          {
+            "name": "category 2"
+          },
+          {
+            "name": "category 3"
+          }
+        ]
+      }
+    ]
+  }
+]
